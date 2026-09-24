@@ -1,0 +1,5 @@
+batch_size,total_alloys,time_sec,samples_per_sec,status
+1,20,68.76,0.291,SUCCESS
+2,20,31.97,0.626,SUCCESS
+4,20,18.02,1.11,SUCCESS
+8,20,11.69,1.711,SUCCESS
